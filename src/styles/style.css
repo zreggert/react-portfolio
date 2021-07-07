@@ -80,6 +80,13 @@ nav ul li .res-link:hover {
     outline: none;
 }
 
+.hero {
+    background-image: url("../resources/images/zack-valleyoffire.JPG");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    position: fixed;
+}
 
 main {
     position: absolute;
@@ -248,6 +255,14 @@ section h2 {
         display: none;
     }
 
+    .mobile-hero {
+        display: block;
+        background: url("../resources/images/railroad_tracks.jpg");
+        height: 100vh;
+        width: 100%;
+        background-size: cover;
+        position: fixed;
+    }
 
     main {
         position: relative;
