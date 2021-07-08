@@ -45,7 +45,8 @@ function Navbar() {
                             type="button"
                             name="resume"
                         >
-                            Resume
+                            <a className="res-link"
+                                href="./resources/zachary_eggert_full_stack_dev.pdf">Resume</a>
                         </button>
                     </li>
                 </ul>
