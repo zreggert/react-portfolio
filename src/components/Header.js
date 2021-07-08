@@ -5,7 +5,7 @@ function Header() {
         <header className="header">
             <h1>Zachary Eggert</h1>
             <h3>Full Stack Web Developer</h3>
-            <div class="mobile">
+            <div className="mobile">
             <nav>
                 <ul>
                     <li>

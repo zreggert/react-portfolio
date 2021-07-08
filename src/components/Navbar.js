@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <aside>
             <figure>
-                <img class="profile-pic" src="./resources/images/zack_full_stack_dev.jpg"/>
+                <img className="profile-pic" src="./resources/images/zack_full_stack_dev.jpg"/>
             </figure>
             <nav>
                 <ul>

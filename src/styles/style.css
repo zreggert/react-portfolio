@@ -109,6 +109,12 @@ section h2 {
     width: 100%;
 }
 
+footer {
+    height: 100px;
+    background-color: #36454f;
+    z-index: 10;
+}
+
 .hide {
     display: none;
 }
