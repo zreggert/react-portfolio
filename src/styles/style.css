@@ -129,6 +129,10 @@ footer a i {
     margin-left: 5%;
 }
 
+footer a i:hover {
+    color: #4558c4f8;
+}
+
 .hide {
     display: none;
 }
@@ -141,20 +145,20 @@ footer a i {
     padding-bottom: 500px;
 }
 
-#contact-me ul li {
-    display: block;
-    padding-right: 50px;
-    padding-bottom: 50px;
-    font-size: 20px;
+#email-form {
+    position: relative;
+    top: 0;
+}
+.email-message {
+    height: 200px;
+    width: 200px;
 }
 
-#contact-me li a {
-    color: whitesmoke;
-    text-decoration: none;
-}
-
-#contact-me li a:hover {
-    color: #36454f;
+.form-column {
+    display: inline-block;
+    position: relative;
+    padding-right: 20%;
+    top: 10;
 }
 
 #projects {
